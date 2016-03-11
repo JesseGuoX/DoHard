@@ -22,5 +22,5 @@
 |[lifetyper](https://www.lifetyper.com/)| Linux |
 |[G.T.Wang](http://blog.gtwang.org/)| Arduino、Linux|
 |[EMBEDDED TWEAKS](http://embeddedtweaks.com/)| Linux |
-|[The Bloom of Youth | 锦瑟华年](http://kuangqi.me/)| Arduino、Maker |
+|[The Bloom of Youth 锦瑟华年](http://kuangqi.me/)| Arduino、Maker |
 |[jjhuang's Random Notes](http://alberthuang314.blogspot.kr/)| Linux |

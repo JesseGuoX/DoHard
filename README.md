@@ -1,7 +1,7 @@
 # DoHard
 有关硬件开发（嵌入式）的个人博客列表，主要是一些个人自建的博客，CSDN、cnblogs 之类的博客不列出（非常有价值的除外）。
 
-方向指大部分文章的内容，排名不分先后。
+"方向"指大部分文章的内容，排名不分先后。
 
 # 列表
 
@@ -24,3 +24,4 @@
 |[EMBEDDED TWEAKS](http://embeddedtweaks.com/)| Linux |
 |[The Bloom of Youth 锦瑟华年](http://kuangqi.me/)| Arduino、Maker |
 |[jjhuang's Random Notes](http://alberthuang314.blogspot.kr/)| Linux |
+|[Jexbat](http://jexbat.com/)| 硬件 |

@@ -6,7 +6,7 @@
 # 列表
 
 | 博客| 方向 | RSS 地址| 
-| --------| ---- | <--->|
+| --------| ---- | -----|
 |[动力老男孩](http://www.diy-robots.com/) | 机器人、Maker |[RSS](http://www.diy-robots.com/?feed=rss2) |
 |[小伙伴们的智能之旅](http://www.brobwind.com/) | Android、Brillo、智能硬件 |[RSS](http://www.brobwind.com/feed)|
 |[大腦的外接記憶體](http://jayextmemo.blogspot.kr/)| Linux |[RSS](http://jayextmemo.blogspot.com/feeds/posts/default)|

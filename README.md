@@ -24,4 +24,5 @@
 |[EMBEDDED TWEAKS](http://embeddedtweaks.com/)| Linux |[RSS](http://embeddedtweaks.com/feed/)|
 |[The Bloom of Youth 锦瑟华年](http://kuangqi.me/)| Arduino、Maker |[RSS](http://kuangqi.me/atom.xml)|
 |[jjhuang's Random Notes](http://alberthuang314.blogspot.kr/)| Linux |[RSS](http://alberthuang314.blogspot.com/feeds/posts/default)|
+|[Kage's Blog](http://blog.kfatso.com)| Linux | [RSS](http://blog.kfatso.com/feeds/all.atom.xml)|
 |[Jexbat](http://jexbat.com/)| 硬件 |[RSS](http://jexbat.com/atom.xml)|

@@ -27,3 +27,4 @@
 |[Kage's Blog](http://blog.kfatso.com)| Linux | [RSS](http://blog.kfatso.com/feeds/all.atom.xml)|
 |[kangqingfei](http://kangqingfei.cn/)| 硬件、Linux| [RSS](http://kangqingfei.cn/atom.xml)|
 |[Jexbat](http://jexbat.com/)| 硬件 |[RSS](http://jexbat.com/atom.xml)|
+|[Dash](http://purplepalmdash.github.io/)| 硬件 |[RSS](http://purplepalmdash.github.io/atom.xml)|

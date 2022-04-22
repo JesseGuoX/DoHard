@@ -28,5 +28,6 @@
 |[kangqingfei](http://kangqingfei.cn/)| 硬件、Linux| [RSS](http://kangqingfei.cn/atom.xml)|
 |[蜗窝科技](http://www.wowotech.net/) | Linux |[RSS](http://www.wowotech.net/rss.php)|
 |[Dash](http://purplepalmdash.github.io/)| 硬件 |[RSS](http://purplepalmdash.github.io/atom.xml)|
-|[Jexbat](http://jexbat.com/)| 硬件 |[RSS](http://jexbat.com/atom.xml)|
+|[Power's Wiki](https://wiki-power.com) |硬件、嵌入式|[RSS](https://wiki-power.com/blog/rss.xml)|
+|[TinyX](https://jesseguox.github.io/tinyx/)| 硬件、嵌入式 |RSS|
 
